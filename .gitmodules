@@ -1,6 +1,6 @@
 [submodule "lingalafacile-client"]
 	path = lingalafacile-client
 	url = git@github.com:kjunias/lingalafacile-client.git
-[submodule "lingalafacile-server"]
-	path = lingalafacile-server
-	url = git@github.com:kjunias/lingalafacile-server.git
+[submodule "lingalafacile-translate-service"]
+	path = lingalafacile-translate-service
+	url = git@github.com:kjunias/lingalafacile-translate-service.git
